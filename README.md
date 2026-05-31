@@ -9,4 +9,4 @@ Running vs__hockey on Instagram — hockey through the lens of data
 
 Power BI · Python · SQL
 
-# Dream goal: analytics in the NHL 🏒
+Dream goal: analytics in the NHL 🏒
