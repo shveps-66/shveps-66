@@ -1,13 +1,12 @@
-## About me
+## Hi, I'm Valentin
 
-Former ice hockey player from Russia, now chasing data instead of pucks.
+MS in Applied Business Analytics @ Boston University. Former pro ice hockey player.
+I build sports analytics projects and explain hockey through data on TikTok.
 
-MS in Business Analytics @ Boston University.
-Working as a Data Analyst at Choosi-Skin, exploring analytics roles across industries.
-Creating hockey analytics content on TikTok, explaining hockey through data.
-
-🎯 Dream goal: working as an Analyst in the NHL.
-📊 Featured project: [NHL Time on Ice Prediction](https://github.com/shveps-66/nhl-toi-prediction). Expected TOI/GP model with residuals for player reevaluation and SHAP for role comparison.
+### Projects
+- [NHL TOI/GP Prediction](https://github.com/shveps-66/nhl-toi-prediction) - expected ice time, residuals and SHAP for player reevaluation.
+- [NHL Cap Hit Prediction](https://github.com/shveps-66/nhl-cap-hit-prediction) - expected cap hit share, residuals and SHAP for contract reevaluation.
+- [KHL Player Segmentation](https://github.com/shveps-66/khl-player-segmentation) - KMeans role clustering beyond Forward/Defenseman.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
