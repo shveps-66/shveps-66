@@ -1,7 +1,7 @@
 ## Hi, I'm Valentin
 
 MS in Applied Business Analytics @ Boston University. Former pro ice hockey player.
-I build sports analytics projects and explain hockey through data on TikTok.
+Building data projects in Python, SQL and Power BI.
 
 ### Projects
 - [NHL TOI/GP Prediction](https://github.com/shveps-66/nhl-toi-prediction) - expected ice time, residuals and SHAP for player reevaluation.
